@@ -1,5 +1,5 @@
 :root{
-    --pink: hsl(187, 55%, 78%);
+    --pink: hsl(188, 16%, 48%);
     --bg: #0a0a0a;
     --shadow: 0 2px 2px rgb(0 0 0/0.5);
 }
@@ -124,10 +124,10 @@ body {
 .home .hati {
     width: 49px;
     height: 49px;
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0);
     display: flex;
     border-radius: 50%;
-    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    box-shadow: 0 0 5px rgba(247, 234, 234, 0.5);
     position: absolute;
     left: 50%;
     transform: translateX(-50%) translateY(65px);
