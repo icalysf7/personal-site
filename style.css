@@ -124,7 +124,7 @@ body {
 .home .hati {
     width: 49px;
     height: 49px;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(107, 82, 82, 0);
     display: flex;
     border-radius: 50%;
     box-shadow: 0 0 5px rgba(247, 234, 234, 0.5);
